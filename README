@@ -1,0 +1,8 @@
+Tol-Mage
+	We have seen many toll gete when we pass by our vehicle.This is a simeple demo of management of toll collection in and around us.
+It consists of two modules.
+--> Admin Module:
+	Where admin can create, delete, modify user details.He can manage the fair of different type of vehicles.He will assess the toll collected by the each toll centers.
+
+--> User Module:
+	Here user/staff can bill the toll amount of vehicles. He can updates his profile info.
